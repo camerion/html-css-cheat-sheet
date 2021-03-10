@@ -1,0 +1,34 @@
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  background-color: darkblue;
+}
+h1{
+  font-size: 48px;
+  color:lightgray;
+  background-color: blue;
+}
+h2 {
+  color: gray;
+  text-decoration: underline;
+}
+h1, h2 {
+  text-align: center;
+}
+table {
+  border: 5px solid silver;
+  background-color: blue;
+  color: gainsboro;
+}
+th{
+  border: 2px solid silver;
+}
+td{
+  border: 1px solid gold;
+  font-family: monospace;
+}
+section{
+  max-width: 960px;
+  padding: 50px;
+  margin: 25px auto;
+}
